@@ -1,0 +1,31 @@
+<resources>
+    <string name="app_name">MobileMe</string>
+
+    <!-- Welcome Fragment -->
+    <string name="welcome_fragment_title">Welcome Fragment</string>
+    <string name="welcome_text">Hi, my name is Petar
+         I love to do some sports and go out with my friends but it is a real pleasure for me to
+        read books, learn new technologies and to solve problems </string>
+    <string name="btn_to_presentation_text">View More</string>
+
+    <!-- Presentation Fragment -->
+    <string name="presentation_fragment_title">Presentation Fragment</string>
+    <string name="presentation_title">More about me</string>
+    <string name="presentation_text">With my current level of ability in Android and Java
+        development I could be very helpful to Flat Rock Technology team and I am going further
+        with preparation for Oracle Certified Programmer</string>
+    <string name="btn_to_motivation_text">To Motivation</string>
+
+
+    <!-- Motivation Fragment -->
+    <string name="motivation_fragment_title">Motivation Fragment</string>
+    <string name="motivation_title">Why I want this internship</string>
+    <string name="motivation_text">Also my diverse background
+    could be very helpful in the communication with the customers and defining their needs</string>
+
+    <!-- Alert Dialog -->
+    <string name="leave_app_dialog_message">Do you want to leave the app?</string>
+    <string name="yes">Yes</string>
+    <string name="no">No</string>
+
+</resources>

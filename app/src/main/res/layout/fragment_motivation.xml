@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:layout_margin="@dimen/app_margin"
+    android:orientation="vertical"
+    tools:context=".ui.fragment.MotivationFragment">
+
+    <TextView
+        android:id="@+id/tv_motivation_title"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:gravity="center_vertical|center_horizontal"
+        android:text="@string/motivation_title"
+        android:textColor="@color/colorPrimaryDark"
+        android:layout_marginBottom="@dimen/app_margin"
+        android:textSize="@dimen/text_size_title"
+        android:textStyle="bold" />
+
+    <TextView
+        android:id="@+id/tv_motivation_text"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:gravity="center_vertical|center_horizontal"
+        android:scrollbars="vertical"
+        android:text="@string/motivation_text"
+        android:textColor="@color/colorPrimaryDarkText"
+        android:textSize="@dimen/text_size" />
+
+</LinearLayout>

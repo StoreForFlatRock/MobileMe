@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <dimen name="text_size_screen_title">26sp</dimen>
+    <dimen name="text_size_title">26sp</dimen>
+    <dimen name="text_size">36sp</dimen>
+    <dimen name="app_margin">36dp</dimen>
+    <dimen name="widgets_margin">16dp</dimen>
+</resources>
